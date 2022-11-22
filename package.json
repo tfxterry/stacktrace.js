@@ -44,7 +44,7 @@
     "jscs": "^2.9.0",
     "jsdoc-dash-template": "^1.2.0",
     "json3": "^3.3.2",
-    "karma": "^1.7.0",
+    "karma": "^6.4.1",
     "karma-chrome-launcher": "^2.2.0",
     "karma-coverage": "^1.1.1",
     "karma-firefox-launcher": "^1.0.1",
